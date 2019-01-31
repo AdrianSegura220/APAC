@@ -1,2 +1,0 @@
-# APAC
-APAC
