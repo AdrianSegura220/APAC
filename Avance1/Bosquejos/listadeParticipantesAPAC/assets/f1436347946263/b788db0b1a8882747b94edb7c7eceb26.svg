@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Squarelist</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Interface" sketch:type="MSLayerGroup" transform="translate(-477.000000, 5.000000)" stroke="#535353" stroke-width="2" stroke-linejoin="round">
+            <g id="Squarelist" transform="translate(485.000000, 6.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-2102" stroke-linecap="round" x="0" y="0" width="8" height="6"></rect>
+                <rect id="Rectangle-2102" stroke-linecap="round" x="0" y="18" width="8" height="6"></rect>
+                <rect id="Rectangle-2102" stroke-linecap="round" x="0" y="36" width="8" height="6"></rect>
+                <path d="M13,3 L45.0156212,3" id="Line" stroke-linecap="square"></path>
+                <path d="M13,21 L45.0156212,21" id="Line" stroke-linecap="square"></path>
+                <path d="M13,39 L45.0156212,39" id="Line" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
